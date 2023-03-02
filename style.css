@@ -1,0 +1,157 @@
+*{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-decoration: none;  
+}
+
+.headbar{
+      float: left;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 0;
+      background-color: rgb(74 73 73);
+      color: aliceblue;     
+}
+header{
+      background-color: rgb(74 73 73);
+      float: left;
+      width: 100%;
+}
+
+
+.headbartitle {
+      display: inline-block;
+}
+
+.headbarlist{
+      display: inline-block;
+      text-align: right;
+      
+}
+
+.headbarlist ul {
+      padding-left: 0;
+      display: flex;
+      padding-right: 75px;
+      margin-top: 4px;
+}
+
+.headbarul li {
+      padding-right: 20px;
+}
+
+.headlinetitle {
+      padding: 30px 0;
+
+}
+.headlinetitle h1 {
+      margin-bottom: 1px;
+      font-weight: bold;
+}
+
+.headbarul span{
+      font-weight: bold;
+}
+
+.parhead {
+      font-style: italic;
+      margin-bottom:8px;
+}
+
+.bodypara{
+      padding-top: 20px;
+      font-weight: 500;
+}
+
+.bodyimage1{
+      width: 800px;
+      height: 400px;
+}
+.sear_label.border{
+      margin-top: 50px;
+}
+
+.sear_label.border{
+      background-color: #dfe0e1;
+      font-weight: 500;
+      padding-left: 20px;
+      padding-top: 8px;
+      padding-bottom: 5px;
+}
+
+.sear_input{
+      margin-top: 14px;
+      padding-left: 17px;
+      display: inline-block;
+      padding-top: 2px;      
+}
+
+.seint{
+      height: 30px;
+      width: 318px;
+}
+
+.serach.border{
+      display: flex;
+      padding-bottom: 15px;
+}
+
+.sear_btn{
+      background-color: rgb(49, 137, 200);
+      margin-top:15px;
+      text-size-adjust: 1px;
+}
+
+.catelab.border{
+      margin-top: 20px;
+}
+
+.categorylab.border{
+      background-color:#dfe0e1;
+      font-weight: 500;
+      padding-left: 20px;
+      padding-top: 8px;
+      padding-bottom: 5px;
+}
+
+.col-lg-6.listitem1{
+      margin-top: 8px;
+      padding-right: 5px;
+}
+
+.col-lg-6.listitem1 ul{
+      padding-left: 20px
+}
+
+
+.col-lg-6.listitem2{
+      margin-top: 8px;
+      padding-right: 5px;
+}
+
+.col-lg-6.listitem2 ul{
+      padding-left: 14px
+}
+
+
+.sidewi.border{
+      margin-top: 20px;
+}
+
+.sidewidget.border{
+      background-color:#dfe0e1;
+      font-weight: 500;
+      padding-left: 20px;
+      padding-top: 8px;
+      padding-bottom: 5px;
+}
+
+.paraclass{
+      padding: 10px 20px 0;;
+}
+
+
+
+
