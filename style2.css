@@ -1,0 +1,341 @@
+*{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-decoration: none;  
+}
+
+.headlogo{
+      display: flex;
+      justify-content: center;
+      padding-top: 25px ;
+}
+.logopic{
+      width: 75px;
+      height: 75px;
+      border-radius: 10px;
+}
+
+.logoname{
+      width: 250px;
+      height: 55px;   
+}
+
+.headmenu{
+      display: inline-block;
+      float: left;
+      width: 100%;
+
+}
+.headerul{
+      display: flex;
+      justify-content: center;
+      margin-top: 15px;
+}
+
+
+.headerul li {
+      padding-left:22px ;
+      font-size:large;
+      font-weight: 500;
+      
+}
+
+
+.headerul li a{
+      text-decoration: none;      
+}
+
+.headerul li a:hover{
+      border-bottom: solid 4px rgb(176, 71, 10);
+      text-decoration: none;
+}
+
+header {
+      height: 161px;
+  }
+
+.imagebar{
+      background-image: url(../images/555.png);
+      height: 100px;
+      text-transform: capitalize;
+      background-position: center;
+      
+}
+.titlebar{
+      font-weight: bold;
+      padding-top: 30px;
+      padding-left: 156px;
+      display: inline-block;
+}
+
+.buttonspace{
+      display: inline-block;
+      background-color: black;
+      margin-left: 602px;
+      height: 58px;
+      padding-top: 13px;
+}
+
+
+.buttonhome{
+      height: 35px;
+      width: 85px;
+      background-color:rgba(7, 7, 7, 0.6);
+      color: rgb(255, 255, 255);
+      font-weight:bold;
+      border: none;
+      border-right: solid;
+}
+
+.buttonviewdesign{
+      height: 35px;
+      width: 150px;
+      background-color:rgba(7, 7, 7, 0.6);
+      font-weight:bold;
+      border: none;
+}
+
+.buttonhome a {
+      text-decoration: none;
+      color:aliceblue;
+}
+
+.buttonviewdesign a{
+      text-decoration: none;
+      color: rgb(172, 7, 7);
+}
+
+.headinfo{
+      display: flex;
+      justify-content: center;
+      padding-top: 15px;
+      background-color:rgb(237 243 240 / 38%);
+      height: 62px;
+
+}
+
+.mainpara{
+      margin-top: 22px;
+      font-size: 18px;
+}
+
+
+.para1{
+      margin-top: 25px;
+      padding-left: 10px;
+      font-size: 18px;
+}
+
+.para2{
+      padding-left: 10px;
+      font-size: 18px;
+}
+
+.videoarmy{
+      width: 900px;
+      height: 400px;
+}
+
+.overpage{
+      background-color:rgb(237 243 240 / 38%);
+      margin-top: 25px;
+}
+
+.photo1{
+      margin-top:25px ;
+      margin-left: 23px;
+      width: 260px;
+      height: 157px;
+}
+
+.photo2{
+      margin-top:30px ;
+      margin-left: 23px;
+      width: 260px;
+      height: 157px;
+}
+
+.contactus{
+      background-color: rgb(22 54 90);
+      margin-top: 25px;
+      padding-bottom: 50px;
+}
+
+.botoh3{
+      display: inline-block;
+      color: white;
+      margin-top: 33px;
+      font-size: 23px;
+}
+
+
+
+.contactblockh3{
+      display: inline-block;
+      color: white;
+}
+
+.contactblock{
+      background-color: rgb(225, 70, 70);
+      display: inline-block;
+      padding-top: 8px;
+      padding-bottom: 4px;
+      padding-left: 15px;
+      padding-right: 15px;
+      margin-top: 40px;
+}
+.paravia{
+      margin-top: 8px;
+      display: inline-block;
+      font-weight: bold;
+      color: white;
+      text-decoration: underline;
+      text-decoration-color: darkgray;
+      margin-right: 5px;
+}
+.fa{
+      color: white;
+      padding-right: 5px;
+}
+
+footer{
+      background-color: rgb(52, 47, 47);
+}
+
+.footberbody{
+      display: flex;
+      justify-content: center;
+      padding-top: 25px;
+      padding-bottom: 50px;
+}
+
+.topic{
+      color: white;
+      font-weight: bold;
+}
+
+
+.contactminiblockh3{
+      display: inline-block;
+      color: white;
+}
+
+.contactminiblock{
+      background-color: rgb(225, 70, 70);
+      display: inline-block;
+      padding-top: 8px;
+      padding-bottom: 1px;
+      padding-left: 8px;
+      padding-right: 8px;
+      margin-top: 15px;
+      margin-bottom: 50px;
+}
+
+.h61{
+      color: white;
+      margin-top: 35px;
+      font-size: 18px;
+}
+
+.h62{
+      color: white;
+      font-size: 18px;
+      margin-top: 15px;
+}
+
+.phon{
+      color: white;
+      margin-top: 35px;
+      font-size: 18px;
+}
+
+.phon1{
+      color: white;
+      font-size: 18px;
+      margin-top: 15px;
+}
+
+.linkconnect{
+      text-decoration: none;
+      color: white;
+}
+.linkconnectul li{
+      margin-top: 16px;
+}
+.linkconnectul{
+      margin-top: 33px;
+}
+
+.linkconnectright{
+      text-decoration: none;
+      color: white;
+}
+.linkconnectulright li{
+      margin-top: 16px;
+}
+.linkconnectulright {
+      margin-top: 33px;
+}
+
+.parasigin{
+      color: white;
+      margin-top: 25px;
+      margin-bottom: 16px;
+}
+
+.inputdetail{
+      width: 418px;
+      margin-top: 10px;
+      height: 40px;
+      background-color: rgb(52, 47, 47);
+      border: none;
+      border: solid 2px;
+      border-color: rgb(98, 95, 95);
+      color: white;
+      text-indent: 20px;
+}
+
+
+.subbut{
+      background-color: rgb(225, 70, 70);
+      margin-top: 10px;
+      width: 418px;
+      height: 40px;
+}
+
+.subbuta{
+      text-decoration: none;
+      color: white;
+      font-weight: 600; 
+}
+
+.imagespic{
+      display: flex;
+      justify-content: right;
+      padding-right: 20px;
+      margin-top: 10px;
+}
+
+.linkconnectul span{
+      color: red;
+}
+
+
+.pyimage{
+      width: 50px;
+      height: 60px;
+      margin-right: 15px;
+}
+
+.unrealimage{
+      width: 50px;
+      height: 60px;
+}
+
+
+
+
+
+
+
